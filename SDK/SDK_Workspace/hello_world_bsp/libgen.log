@@ -3,8 +3,7 @@ Release 14.6 - libgen Xilinx EDK 14.6 Build EDK_P.68d
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 Command Line: libgen -hw ../basic_system_hw_platform/system.xml -lp
-D:/work/lprs2/2013_2014/Resene_vezbe/lab45/basic_system -pe microblaze_0 -log
-libgen.log system.mss 
+C:/materija/RA136-2013/lab5 -pe microblaze_0 -log libgen.log system.mss 
 
 
 Staging source files.
